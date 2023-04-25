@@ -7,3 +7,10 @@ body {
   justify-content: space-between;
   padding: 10px;
 }
+.content {
+  height: 550px;
+}
+
+.dogImage {
+  position: absolute;
+}
